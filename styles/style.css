@@ -13,7 +13,6 @@ body {
   font-size: 40px;
   text-align: center;
   text-shadow: -3px 3px rgb(255, 230, 0);
-
 }
 
 .leftcolumn {
@@ -42,13 +41,13 @@ body {
 }
 
 .gerb{
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20rem;
-    float: right;
-    width: 20rem;
-    height: 20rem;
-    margin-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20rem;
+  float: right;
+  width: 20rem;
+  height: 20rem;
+  margin-right: 1rem;
 }
 
 .i3{
@@ -95,7 +94,6 @@ body {
 
 .logos{
   display: flex;
-
 }
 
 .inst-telegr{
@@ -132,7 +130,6 @@ a{
   background: red;
   border: 1px solid rgb(195, 255, 0);
   box-shadow: 7px 8px 7px;
-  
 }
 
 .footer {
